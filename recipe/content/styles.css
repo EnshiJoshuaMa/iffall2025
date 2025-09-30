@@ -1,0 +1,18 @@
+html {
+    margin: 2rem;
+}
+
+img {
+  width: 300px; /* Sets the width to 300 pixels */
+  height: 200px; /* Sets the height to 200 pixels */
+}
+
+.icon {
+    width: 30px;
+    height: 30px;
+}
+
+.icon-large {
+    width: 70px;
+    height: 70px;
+}
